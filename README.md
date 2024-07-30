@@ -31,6 +31,10 @@ We're using the following stack:
 
 - [Website](https://enter.metagame.wtf)
 
+## Modal-The-Game
+  [Moda Booking](modal.me)
+    _I need help with the front end of modal just making it look super fresh!  Also creating the gaming side of this. We have major contracts put in place and there is a potential of exponential scaleable growth like never seen before. We have an Airtable meeting tomorrow and go live on Discord tomorrow afternoon so please stick around. There will be enough funding to fund everybodys dreams and make Metagame the ultimate reality!
+
 
 ## Guides
 
